@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hey! My name is Telmo and I'm a Full Stack Overflow Developer.
+⚡Hey! My name is Telmo and I'm a Full Stack <del>Overflow</del> Developer.
 
 
 # 💻 Tech Stack:
