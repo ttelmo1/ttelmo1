@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on @BRGaap Corporation and my daily commits are on bitbucket.org !
 
-- 🌱 I’m currently learning **Java and Spring**
-
 - 👨‍💻 All of my projects are available at [https://ttelmo1.vercel.app/](https://ttelmo1.vercel.app/)
 
-- 💬 Ask me about **Js, React and Nestjs**
+- 💬 Ask me about **Js, React and .Net**
 
 - 📫 How to reach me **telmobsj@gmail.com**
 
@@ -76,8 +74,8 @@
 
 <h3 align="left">Tests:</h3>
 <p align="left">
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="XUnit" width="40" height="40"/>
   </a>
 </p>
 
