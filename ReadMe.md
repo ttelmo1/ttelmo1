@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Telmo Junior</h1>
+<h1 align="center">Hi 👋, I'm Telmo Bezerra</h1>
 <h3 align="center">A passionate full stack <del>Overflow</del> developer from Brazil</h3>
 
 - 🔭 I’m currently working on @BRGaap Corporation and my daily commits are on bitbucket.org !
